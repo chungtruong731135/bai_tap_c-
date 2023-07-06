@@ -1,0 +1,15 @@
+D:\Study C#\baitap1\baitap1\bin\Debug\net7.0\baitap1.exe
+D:\Study C#\baitap1\baitap1\bin\Debug\net7.0\baitap1.deps.json
+D:\Study C#\baitap1\baitap1\bin\Debug\net7.0\baitap1.runtimeconfig.json
+D:\Study C#\baitap1\baitap1\bin\Debug\net7.0\baitap1.dll
+D:\Study C#\baitap1\baitap1\bin\Debug\net7.0\baitap1.pdb
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\baitap1.csproj.AssemblyReference.cache
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\baitap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\baitap1.AssemblyInfoInputs.cache
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\baitap1.AssemblyInfo.cs
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\baitap1.csproj.CoreCompileInputs.cache
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\baitap1.dll
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\refint\baitap1.dll
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\baitap1.pdb
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\baitap1.genruntimeconfig.cache
+D:\Study C#\baitap1\baitap1\obj\Debug\net7.0\ref\baitap1.dll

@@ -1,0 +1,15 @@
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\bin\Debug\net7.0\bai_tap_phan_chuoi.exe
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\bin\Debug\net7.0\bai_tap_phan_chuoi.deps.json
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\bin\Debug\net7.0\bai_tap_phan_chuoi.runtimeconfig.json
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\bin\Debug\net7.0\bai_tap_phan_chuoi.dll
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\bin\Debug\net7.0\bai_tap_phan_chuoi.pdb
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\bai_tap_phan_chuoi.csproj.AssemblyReference.cache
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\bai_tap_phan_chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\bai_tap_phan_chuoi.AssemblyInfoInputs.cache
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\bai_tap_phan_chuoi.AssemblyInfo.cs
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\bai_tap_phan_chuoi.csproj.CoreCompileInputs.cache
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\bai_tap_phan_chuoi.dll
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\refint\bai_tap_phan_chuoi.dll
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\bai_tap_phan_chuoi.pdb
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\bai_tap_phan_chuoi.genruntimeconfig.cache
+D:\Study C#\bai_tap_phan_chuoi\bai_tap_phan_chuoi\obj\Debug\net7.0\ref\bai_tap_phan_chuoi.dll

@@ -1,0 +1,15 @@
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\bai_tap_4.csproj.AssemblyReference.cache
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\bai_tap_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\bai_tap_4.AssemblyInfoInputs.cache
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\bai_tap_4.AssemblyInfo.cs
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\bai_tap_4.csproj.CoreCompileInputs.cache
+D:\Study C#\bai_tap_4\bai_tap_4\bin\Debug\net7.0\bai_tap_4.exe
+D:\Study C#\bai_tap_4\bai_tap_4\bin\Debug\net7.0\bai_tap_4.deps.json
+D:\Study C#\bai_tap_4\bai_tap_4\bin\Debug\net7.0\bai_tap_4.runtimeconfig.json
+D:\Study C#\bai_tap_4\bai_tap_4\bin\Debug\net7.0\bai_tap_4.dll
+D:\Study C#\bai_tap_4\bai_tap_4\bin\Debug\net7.0\bai_tap_4.pdb
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\bai_tap_4.dll
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\refint\bai_tap_4.dll
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\bai_tap_4.pdb
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\bai_tap_4.genruntimeconfig.cache
+D:\Study C#\bai_tap_4\bai_tap_4\obj\Debug\net7.0\ref\bai_tap_4.dll

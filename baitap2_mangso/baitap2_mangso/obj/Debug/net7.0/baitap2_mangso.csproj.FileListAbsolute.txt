@@ -1,0 +1,15 @@
+D:\Study C#\baitap2_mangso\baitap2_mangso\bin\Debug\net7.0\baitap2_mangso.exe
+D:\Study C#\baitap2_mangso\baitap2_mangso\bin\Debug\net7.0\baitap2_mangso.deps.json
+D:\Study C#\baitap2_mangso\baitap2_mangso\bin\Debug\net7.0\baitap2_mangso.runtimeconfig.json
+D:\Study C#\baitap2_mangso\baitap2_mangso\bin\Debug\net7.0\baitap2_mangso.dll
+D:\Study C#\baitap2_mangso\baitap2_mangso\bin\Debug\net7.0\baitap2_mangso.pdb
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\baitap2_mangso.csproj.AssemblyReference.cache
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\baitap2_mangso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\baitap2_mangso.AssemblyInfoInputs.cache
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\baitap2_mangso.AssemblyInfo.cs
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\baitap2_mangso.csproj.CoreCompileInputs.cache
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\baitap2_mangso.dll
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\refint\baitap2_mangso.dll
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\baitap2_mangso.pdb
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\baitap2_mangso.genruntimeconfig.cache
+D:\Study C#\baitap2_mangso\baitap2_mangso\obj\Debug\net7.0\ref\baitap2_mangso.dll
